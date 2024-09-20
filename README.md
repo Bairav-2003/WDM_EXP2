@@ -1,6 +1,6 @@
 ### EX2: Generating Association Rules for Employee dataset using Apriori Algorithm
 
-### DATE: 17:08:2024
+### DATE: 20:09:2024
 
 ### AIM: To generate associate rules for the employee dataset using Apriori Algorithm.
 ### Description:
